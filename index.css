@@ -1,0 +1,13 @@
+body {
+  margin: auto;
+  max-width: 450pt;
+  padding: 16pt;
+  color-scheme: dark;
+  font-family: sans-serif;
+}
+
+
+a {
+  color: #5a370d;
+  text-decoration: none;
+}
