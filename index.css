@@ -6,8 +6,14 @@ body {
   font-family: sans-serif;
 }
 
-
 a {
   color: #5a370d;
   text-decoration: none;
+}
+
+summary {
+  cursor: pointer;
+  padding: 10pt 0 10pt 0;
+  font-size: 18pt;
+  font-weight: bold;
 }
