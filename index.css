@@ -1,13 +1,15 @@
 body {
   margin: auto;
   max-width: 450pt;
+  background-color: #082932;
   padding: 16pt;
-  color-scheme: dark;
   font-family: sans-serif;
+  color: #9e9e9e;
 }
 
 a {
-  color: #5a370d;
+  color: #3c77c4;
+  margin: 5pt 0 5pt 0;
   text-decoration: none;
 }
 
